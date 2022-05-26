@@ -43,8 +43,6 @@ public class Item {
 	}
 	public void setItem_description(String item_description) {
 		this.item_description = item_description;
-	}
-	
-	
+	}	
 
 }
